@@ -36,7 +36,7 @@ User → Internet → AWS EC2 → Linux → Nginx → Portfolio Website
 | Public IP enabled | ✔️ |
 | Nginx installed & running | ✔️ |
 | HTML portfolio deployed | ✔️ |
-| SSH from mobile using Termux | ✔️ |
+| SSH | ✔️ |
 
 ---
 
